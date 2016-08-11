@@ -81,3 +81,148 @@ La red está formada por miembros y auspiciantes. Los miembros de la Red son ins
 * Primeras Jornadas Cuyanas de Gobierno Abierto en la UNCuyo los días 23 y 24 de Mayo de 2016. Para la Red éste constituye su segundo evento, el que será presentado por el Nodo Cuyo.
 
 
+**Chile**
+
+**Nombre de la iniciativa:** Colab - Innovación Social UC
+
+**Institución:** Universidad Católica de Chile - Escuela de Administración UC
+
+**URL de la iniciativa:** http://innovacionsocial.uc.cl/
+
+Colab es un laboratorio de innovación que nació en 2011. El proyecto funciona dentro de la Escuela de Administración como _"un espacio innovador donde se pueda observar, reflexionar y tomar acciones concretas con el fin de hacer frente a nuestras necesidades sociales, ambientales y económicas"_.
+
+**Objetivo**: co-construcción de un ecosistema de innovación y emprendimiento social que fomente el progreso sustentable de Chile  a través de la formación de agentes de cambio en personas, organizaciones y nuevos modelos de creación de valor a través de 3 ejes: vinculación, formación e investigación.
+
+**Equipo**
+
+_Permanente_
+
+* 4 ingenieros comerciales.
+* 1 diseñador gráfico.
+* 1 bioquímico.
+* 1 cientista político.
+* 1 contador.
+
+_Colaboradores_
+
+* 7 estudiantes de ingeniería.
+* 1 estudiante de trabajo social.
+* 1 cientista político.
+* 1 ingeniero.
+
+**Productos formación**
+
+
+* La escuela de innovación social
+* Laboratorios de emprendimiento y innovacion social
+* Curso innovación social Magister UC
+* Curso de Formación Directiva
+
+
+**Productos Investigación:**
+* Papers y publicaciones
+
+
+**Productos de vinculación:**
+
+
+* Mesa Técnica Ministerial de Empresas Sociales
+* Iniciativa 101Soluciones al Emprendimiento Social (www.101soluciones.org)
+* Asesoría en la creación de la ASOGES (Asociación Gremial de Empresas Sociales de Chile)
+* Taller de alto nivel en América Latina, el cual reunió a más de 70 actores públicos y privados. Esta instancia estuvo patrocinado por dos actores claves del proceso: Fondo Multilateral de Inversiones (FOMIN), junto con la experiencia de Finanzas Sociales.
+* Bien Público: Fortalecimiento de la Cadena de Valor de la Pesca Artesanal en Chile
+* Alto impacto: http://innovacionsocial.uc.cl/altoimpacto/
+
+
+
+***
+
+**Nombre de la iniciativa:** Laboratorio de Gobierno
+
+**Institución:**Gobierno de Chile.
+
+**URL de la iniciativa:** https://lab.gob.cl/#intro
+
+
+**Objetivo:**
+
+
+El laboratorio de Chile tiene como finalidad desarrollar, facilitar y promover procesos de innovación centrado en los usuarios dentro de las instituciones del Estado.
+Es un espacio privilegiado para llevar adelante una estrategia que permita imaginar, diseñar y co-crear junto a diversos actores, los servicios públicos que el gobierno debe entregar a una nueva ciudadanía. 
+
+***
+
+
+**Euipo**
+
+
+El equipo está compuesto en su mayoría por funcionarios de los ministerios de Gobierno , aunque cuentan con representantes de la sociedad civil y de universidades.
+
+
+
+**Uruguay**
+
+
+**Nombre de la iniciativa:** UCU DataLab
+
+**Institución:** Universidad Católica de Uruguay
+
+**URL de la iniciativa:** no tiene
+
+Durante el primer semestre en Facultad de Ingeniería se dicta el curso “Usabilidad y Diseño de Interfaces” como electiva para estudiantes de Licenciatura e Ingeniería en Sistemas. El objetivo del curso es brindar conocimientos de usabilidad, accesibilidad y diseño de interacción para generar mejores interfaces de usuario. Al principio del curso cada alumno selecciona un proyecto de su interés y mediante la realización de talleres se van aplicando los conceptos teóricos al proyecto hasta finalizar con un prototipo navegable usable y accesible. 
+Por su parte, los alumnos de Periodismo podrán centrarse en un proyecto concreto de investigación de Periodismo de Datos que desemboque en la creación de una aplicación. 
+
+La propuesta es realizar actividades coordinadas entre los alumnos de ambas carreras en las cuales se brinden conceptos teóricos comunes y se realicen talleres de co-creación para realizar una aplicación de visualización de datos.
+
+
+
+**Brasil**
+
+
+**Nombre de la iniciativa:** "I Simpósio de Pedagogia Universitária GAP - EACH - Aprendizado ativo em Políticas Públicas para o Acesso à Informação"Políticas Públicas e sociedade da Informação - PPSI - disciplina ofrecida en la Universidad de São Paulo (EACH - USP) en 2014.
+
+**Institución:** Universidad de San Pablo.
+
+URL de la iniciativa:no posee.
+
+* Programa de Pós-Graduação em Sistemas de Informação
+* + Optativa de 4o de Gestão de Políticas Públicas - GPP
+* Alunos de SI – desenvolvimento de aplicativos
+* Alunos de GPP – sugestão de pautas e análise na
+* perspectiva das Políticas Públicas.
+* Contexto da Lei de Acesso à Informação (12527/2011)
+* Turma com dois professores
+* Apoio de dois tutores
+* Grupos de 4 a 6 indivíduos
+* Estratégia de RP
+* Trabalho colaborativo e aberto (wiki)
+
+**Temas escolhidos e produtos:**
+
+
+* ontologia do orçamento público - dados abertos
+* investimentos em educação - Análise e visualização dos Gastos com educação (dados IDEB)
+* investimentos em Cultura através de leis de incentivo fiscal - http://culturatransparente.org/ 
+* análise de redes P2P - Torrent Analytics
+* empreendedorismo social - “Porka Social” – plataforma de apoio à economia solidária
+* (“crowdfunding”) e modelo de negócio
+
+**Características principais:**
+
+
+* Aprendizado interdisciplinar
+* Trabalho colaborativo
+* Aproveitamento do conhecimento prévio
+* Combinação de habilidades
+* Muita pesquisa
+* Desenvolvimento de um produto
+* Relação com a realidade social e política
+* Análise crítica (não apenas ferramenta)
+* Artigo científico
+
+
+
+
+
+
+
