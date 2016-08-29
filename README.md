@@ -1,13 +1,9 @@
-
-
-#**Qué es el Gimnasio de Innovación en Gobierno Abierto (GIGA) y cómo surgió**
+Gimnasio de Innovación en Gobierno Abierto (GIGA)
 
 
 El Gimnasio de Innovación en Gobierno Abierto (GIGA) es una iniciativa creada por Caroline Burle, Carolina Contreras-Hugot, Silvia Da Rosa y Romina Colman en el marco de la Fellowship en Gobierno Abierto de la Organización de Estados Americanos (OEA). El proyecto tiene como principal objetivo el diseño de programas de educación en esta temática  a través del empleo de metodologías de enseñanza basadas en el aprendizaje práctico.Todas ellas orientadas a una única finalidad:**crear capacidades/habilidades de Gobierno Abierto en las personas**.
 
 El proyecto nació en mayo de 2016 y tuvo como primera actividad la creación de un mapeo de los cursos, talleres, programas o cualquier tipo de iniciativa educativa de Gobierno Abierto que se estuviera desarrollando en Argentina, Chile, Brasil o en cualquier país de América Latina.
-
->**Nuevas competencias para una nueva lógica**
 
 Ramirez-Alujas plantea la pregunta: “¿Es posible enseñar (en el presente) en base a paradigmas, teorías y marcos analíticos y conceptuales del pasado para ejercer adecuadamente la profesión en el futuro?” 
 
