@@ -5,7 +5,7 @@ El Gimnasio de Innovación en Gobierno Abierto (GIGA) es una iniciativa creada p
 
 El proyecto nació en mayo de 2016 y tuvo como primera actividad la creación de un mapeo de los cursos, talleres, programas o cualquier tipo de iniciativa educativa de Gobierno Abierto que se estuviera desarrollando en Argentina, Chile, Brasil o en cualquier país de América Latina.
 
-> English speaker? Want to know what is the Open Government Innovation Gym (OGIG)? Click [here] (https://docs.google.com/presentation/d/1aGspJJNno_lN79nEgVolr8qMMVF5BbbBlp0Bq-wgZSE/edit?usp=sharing)
+> English speaker? Read about the Open Government Innovation Gym (OGIG) [here] (https://docs.google.com/presentation/d/1aGspJJNno_lN79nEgVolr8qMMVF5BbbBlp0Bq-wgZSE/edit?usp=sharing)
 
 ### Mapeo de iniciativas educativas en Gobierno Abierto: a qué consideramos una iniciativa educativa en Gobierto Abierto
 
