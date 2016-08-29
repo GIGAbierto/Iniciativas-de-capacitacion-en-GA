@@ -24,36 +24,23 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 Iniciativas relevadas en capacitación de Gobierno Abierto 
 Argentina
 
-**Nombre de la iniciativa:** [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
+1.**Nombre de la iniciativa:** [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
 
 **Institución:** Fundación Tomás Eloy Martínez.
 
 **Objetivo**: El taller pone foco en la búsqueda de datos y su uso posterior para la producción de artículos peiodísticos.
 
 
-**Nombre de la iniciativa:** [Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata] (http://www.unlp.edu.ar/gobiernoabierto)
+
+2.**Nombre de la iniciativa:** [Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata] (http://www.unlp.edu.ar/gobiernoabierto)
 
 **Institución:** Universidad Nacional de La Plata
 
 **Objetivo**: la iniciativa busca crear _"un espacio abierto e inclusivo donde se puedan promover publicaciones, charlas, reuniones, desayunos de trabajo, con universidades nacionales y privadas, fundaciones y ONGs interesadas en la participación y la reconfiguración de la relación entre los ciudadanos y los gobiernos"_
 
-**Equipo**
-
-Celeste Gigli Box, politóloga.
 
 
-
-**Nombre de la iniciativa:** Doctorado en Dirección de la Innovación Sistémica
-
-**Institución:** Instituto Tecnológico Buenos Aires (ITBA)
-
-**URL de la iniciativa:** http://itba.edu.ar/doctoradoinnovacion/propuesta-academica.html
-
-
-El programa utiliza metodologías  como la innovación disruptiva, la inteligencia colectiva, las ciencias sistémicas, la biomimética, el design thinking y la experimentación de negocios, con el objetivo de formar líderes para dirigir la innovación desde una visión sistémica, capaces de desarrollar soluciones surgidas desde la inteligencia colectiva, a partir de nuevas formas de investigación que incorporen tanto la creatividad tecnológica como el triple impacto: social, ambiental y económico.
-
-
-**Nombre de la iniciativa:** Red Académica de Gobierno Abierto.
+3.**Nombre de la iniciativa:** Red Académica de Gobierno Abierto.
 
 
 **Institución:** No poseen un espacio formal.
