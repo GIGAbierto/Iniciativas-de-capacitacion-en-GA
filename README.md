@@ -10,13 +10,13 @@ El proyecto nació en mayo de 2016 y tuvo como primera actividad la creación de
 
 El equipo de GIGA se propuso relevar todas las iniciativas que se aporyars en alguno de los tres principios claves de Gobierno Abierto:
 
--Transparencia
+* Transparencia
 
 
--Colaboración
+* Colaboración
 
 
--Participación
+* Participación
 
 
 Iniciativas relevadas en capacitación de Gobierno Abierto 
