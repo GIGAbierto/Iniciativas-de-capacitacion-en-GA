@@ -10,7 +10,7 @@ El proyecto nació en mayo de 2016 y tuvo como primera actividad la creación de
 ### Mapeo de iniciativas educativas en Gobierno Abierto: a qué consideramos una iniciativa educativa en Gobierto Abierto
 
 
-El equipo de GIGA se propuso relevar todas las iniciativas que se aporyars en alguno de los tres principios claves de Gobierno Abierto:
+El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen como eje principal uno o más principios claves de Gobierno Abierto:
 
 * Transparencia
 
@@ -24,11 +24,9 @@ El equipo de GIGA se propuso relevar todas las iniciativas que se aporyars en al
 Iniciativas relevadas en capacitación de Gobierno Abierto 
 Argentina
 
-**Nombre de la iniciativa:** Taller de periodismo de datos y acceso a la información
+**Nombre de la iniciativa:** [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
 
 **Institución:** Fundación Tomás Eloy Martínez.
-
-**URL de la iniciativa:** http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/
 
 **Objetivo**
 
