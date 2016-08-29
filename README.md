@@ -5,27 +5,18 @@ El Gimnasio de Innovación en Gobierno Abierto (GIGA) es una iniciativa creada p
 
 El proyecto nació en mayo de 2016 y tuvo como primera actividad la creación de un mapeo de los cursos, talleres, programas o cualquier tipo de iniciativa educativa de Gobierno Abierto que se estuviera desarrollando en Argentina, Chile, Brasil o en cualquier país de América Latina.
 
-Ramirez-Alujas plantea la pregunta: “¿Es posible enseñar (en el presente) en base a paradigmas, teorías y marcos analíticos y conceptuales del pasado para ejercer adecuadamente la profesión en el futuro?” 
-
-Últimamente se habla de “competencias”, entendidas como la capacidad de realizar una actividad con un nivel de dominio considerable correspondiente a un criterios establecido. El nivel de dominio dependerá, entre otros,  de los conocimientos, creencias, habilidades, destrezas y actitudes del individuo.
-
-Las competencias relacionadas con el Gobierno Abierto deben ser flexibles y basadas en metodologías innovadoras, transversales y genéricas para todos los perfiles de egreso con la finalidad de generar un ecosistema que permita hacer frente a las nuevas complejidades.
-
-Las personas preparadas para el nuevo paradigma de gobierno se enriquecen de la interdisciplinariedad, tienen habilidades que no fueron desarrolladas en los ámbitos académicos convencionales y se complementan con otros perfiles a partir del través del trabajo en equipo y la colaboración radical.
-
-
->** Mapeo de iniciativas educativas en Gobierno Abierto: a qué consideramos una iniciativa educativa en Gobierto Abierto.**
+### Mapeo de iniciativas educativas en Gobierno Abierto: a qué consideramos una iniciativa educativa en Gobierto Abierto
 
 
 El equipo de GIGA se propuso relevar todas las iniciativas que se aporyars en alguno de los tres principios claves de Gobierno Abierto:
 
-*Transparencia
+-Transparencia
 
 
-*Colaboración
+-Colaboración
 
 
-*Participación
+-Participación
 
 
 Iniciativas relevadas en capacitación de Gobierno Abierto 
