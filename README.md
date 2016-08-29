@@ -28,23 +28,14 @@ Argentina
 
 **Institución:** Fundación Tomás Eloy Martínez.
 
-**Objetivo**
+**Objetivo**: El taller pone foco en la búsqueda de datos y su uso posterior para la producción de artículos peiodísticos.
 
 
-El taller pone foco en la búsqueda de datos y su posterior trabajo en los artículos. La apertura de ellos en las notas y el uso de estos como herramienta de verificación.
-
-**Equipo**
-
-Laura Zommer: periodista y Directora de Chequeado.com
-
-
-**Nombre de la iniciativa:** Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata
+**Nombre de la iniciativa:** [Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata] (http://www.unlp.edu.ar/gobiernoabierto)
 
 **Institución:** Universidad Nacional de La Plata
 
-**URL de la iniciativa:** http://www.unlp.edu.ar/gobiernoabierto
-
-La iniciativa busca crear _"un espacio abierto e inclusivo donde se puedan promover publicaciones, charlas, reuniones, desayunos de trabajo, con universidades nacionales y privadas, fundaciones y ONGs interesadas en la participación y la reconfiguración de la relación entre los ciudadanos y los gobiernos"_
+**Objetivo**: la iniciativa busca crear _"un espacio abierto e inclusivo donde se puedan promover publicaciones, charlas, reuniones, desayunos de trabajo, con universidades nacionales y privadas, fundaciones y ONGs interesadas en la participación y la reconfiguración de la relación entre los ciudadanos y los gobiernos"_
 
 **Equipo**
 
