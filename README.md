@@ -52,59 +52,47 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 ### Iniciativas Educativas en Gobierno Abierto en Chile
 
 
-**Nombre de la iniciativa:** [Colab - Innovación Social UC] (http://innovacionsocial.uc.cl/)
+
+> [Colab - Innovación Social UC] (http://innovacionsocial.uc.cl/)
 
 **Institución:** Universidad Católica de Chile - Escuela de Administración UC
 
 
 **Objetivo**: Colab es un laboratorio de innovación que nació en 2011. El proyecto funciona dentro de la Escuela de Administración como _"un espacio innovador donde se pueda observar, reflexionar y tomar acciones concretas con el fin de hacer frente a nuestras necesidades sociales, ambientales y económicas" para la co-construcción de un ecosistema de innovación y emprendimiento social que fomente el progreso sustentable de Chile .
-**Nombre de la iniciativa:** Laboratorio de Gobierno
+
+
+
+> [Laboratorio de Gobierno] (https://lab.gob.cl/#intro)
 
 **Institución:**Gobierno de Chile.
 
-**URL de la iniciativa:** https://lab.gob.cl/#intro
 
-
-**Objetivo:**
-
-
-El laboratorio de Chile tiene como finalidad desarrollar, facilitar y promover procesos de innovación centrado en los usuarios dentro de las instituciones del Estado.
+**Objetivo:**: el laboratorio de Chile tiene como finalidad desarrollar, facilitar y promover procesos de innovación centrado en los usuarios dentro de las instituciones del Estado.
 Es un espacio privilegiado para llevar adelante una estrategia que permita imaginar, diseñar y co-crear junto a diversos actores, los servicios públicos que el gobierno debe entregar a una nueva ciudadanía. 
 
-***
 
 
-**Euipo**
+### Iniciativas Educativas en Gobierno Abierto en Uruguay
 
 
-El equipo está compuesto en su mayoría por funcionarios de los ministerios de Gobierno , aunque cuentan con representantes de la sociedad civil y de universidades.
-
-
-
-**Uruguay**
-
-
-**Nombre de la iniciativa:** UCU DataLab
+> UCU DataLab
 
 **Institución:** Universidad Católica de Uruguay
 
-**URL de la iniciativa:** no tiene
 
-Durante el primer semestre en Facultad de Ingeniería se dicta el curso “Usabilidad y Diseño de Interfaces” como electiva para estudiantes de Licenciatura e Ingeniería en Sistemas. El objetivo del curso es brindar conocimientos de usabilidad, accesibilidad y diseño de interacción para generar mejores interfaces de usuario. Al principio del curso cada alumno selecciona un proyecto de su interés y mediante la realización de talleres se van aplicando los conceptos teóricos al proyecto hasta finalizar con un prototipo navegable usable y accesible. 
-Por su parte, los alumnos de Periodismo podrán centrarse en un proyecto concreto de investigación de Periodismo de Datos que desemboque en la creación de una aplicación. 
-
-La propuesta es realizar actividades coordinadas entre los alumnos de ambas carreras en las cuales se brinden conceptos teóricos comunes y se realicen talleres de co-creación para realizar una aplicación de visualización de datos.
+**Objetivo:**: el objetivo del curso durante el primer semestre es brindar conocimientos de usabilidad, accesibilidad y diseño de interacción para generar mejores interfaces de usuario. Al principio del curso cada alumno selecciona un proyecto de su interés y mediante la realización de talleres se van aplicando los conceptos teóricos al proyecto hasta finalizar con un prototipo navegable usable y accesible. 
 
 
+### Iniciativas Educativas en Gobierno Abierto en Brasil
 
-**Brasil**
 
 
-**Nombre de la iniciativa:** "I Simpósio de Pedagogia Universitária GAP - EACH - Aprendizado ativo em Políticas Públicas para o Acesso à Informação"Políticas Públicas e sociedade da Informação - PPSI - disciplina ofrecida en la Universidad de São Paulo (EACH - USP) en 2014.
+ > "I Simpósio de Pedagogia Universitária GAP - EACH - Aprendizado ativo em Políticas Públicas para o Acesso à Informação"Políticas Públicas e sociedade da Informação - PPSI - disciplina ofrecida en la Universidad de São Paulo (EACH - USP) en 2014.
 
 **Institución:** Universidad de San Pablo.
 
-URL de la iniciativa:no posee.
+
+**Objetivos:**
 
 * Programa de Pós-Graduação em Sistemas de Informação
 * + Optativa de 4o de Gestão de Políticas Públicas - GPP
@@ -117,30 +105,6 @@ URL de la iniciativa:no posee.
 * Grupos de 4 a 6 indivíduos
 * Estratégia de RP
 * Trabalho colaborativo e aberto (wiki)
-
-**Temas escolhidos e produtos:**
-
-
-* ontologia do orçamento público - dados abertos
-* investimentos em educação - Análise e visualização dos Gastos com educação (dados IDEB)
-* investimentos em Cultura através de leis de incentivo fiscal - http://culturatransparente.org/ 
-* análise de redes P2P - Torrent Analytics
-* empreendedorismo social - “Porka Social” – plataforma de apoio à economia solidária
-* (“crowdfunding”) e modelo de negócio
-
-**Características principais:**
-
-
-* Aprendizado interdisciplinar
-* Trabalho colaborativo
-* Aproveitamento do conhecimento prévio
-* Combinação de habilidades
-* Muita pesquisa
-* Desenvolvimento de um produto
-* Relação com a realidade social e política
-* Análise crítica (não apenas ferramenta)
-* Artigo científico
-
 
 
 
