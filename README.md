@@ -28,6 +28,8 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 * Participación
 
+> ¿Conocés alguna iniciativa educativa de Gobierno Abierto y no está en este repositorio? Contanos completando este [formulario] (https://docs.google.com/forms/d/19Du3BPkMBid8H49Ej8a0adKE8YbFBP98LHX_DtpmHbU/prefill)
+
 
 ### Iniciativas educativas en Gobierno Abierto en Argentina
 
