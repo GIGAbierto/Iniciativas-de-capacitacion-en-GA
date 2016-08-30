@@ -21,8 +21,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 * Participación
 
 
-Iniciativas relevadas en capacitación de Gobierno Abierto 
-Argentina
+### Iniciativas educativas en Gobierno Abierto en Argentina
 
 > [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
 
@@ -47,35 +46,9 @@ Argentina
 
 **Objetivo**: Según su propia página web, buscan _favorecer la generación de espacios de cooperación a nivel local, regional y global en el sector académico, a fin de difundir, investigar, enseñar y publicar sobre el enfoque de GA; así como co-crear, con otros actores de la sociedad civil y gobiernos, propuestas de apertura institucional y ciudadana, de transparencia, de acceso a la información, rendición de cuentas, participación y colaboración._
 
-**Equipo**
-
-La red está formada por miembros y auspiciantes. Los miembros de la Red son instituciones académicas, académicos y profesionales. Los auspiciantes pueden ser académicos, OSCs, organizaciones internacionales, redes, donantes, empresarios y toda otra persona o institución interesada en la temática de gobierno abierto.
 
 
-**Instituciones Académicas adherentes/ Convenios:**
-
-* UTN Regional Rosario
-* Centro de Altos Estudios en Tecnología Informática, CAETI-UAI
-* Facultad de Ciencias Económicas de la FCE, 
-* Unidad de Gobiernos Locales de la UNQUI y la UBA.
-
-**En preparación:**
-
-* La Carrera de Derecho Informático (Facultad de Derecho, UBA)
-* A Cátedra de Gobierno Abierto de la Universidad Austral
-* La Facultad de Ciencias Políticas de la UCA de Córdoba.
-* La Asociación Argentina de Estudios de Administración Pública (AAEAP)
-* La UMET.
-
-**Actividades/Eventos**
-
-* Primera Jornada Académica de Gobierno Abierto - Buenos Aires
-* Anuncio de la Red en Perú
-* Lanzamiento de la Red en OGP Global Summit, México
-* Primeras Jornadas Cuyanas de Gobierno Abierto en la UNCuyo los días 23 y 24 de Mayo de 2016. Para la Red éste constituye su segundo evento, el que será presentado por el Nodo Cuyo.
-
-
-**Chile**
+### Iniciativas Educativas en Gobierno Abierto en Chile
 
 **Nombre de la iniciativa:** Colab - Innovación Social UC
 
