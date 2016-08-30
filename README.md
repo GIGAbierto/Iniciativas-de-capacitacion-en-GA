@@ -120,10 +120,13 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 #### Resumen Argentina
 
 
-|   **País**    |               **Iniciativa **                                               | **Institución** |
-| ------------- | ----------------------------------------------------------------------------|-----------------|                                            
-|  Argentina    | Taller sobre periodismo de datos y acceso a la información
-|  Argentina    | 
+|   **País**    |               **Iniciativa **                                               |     **Institución**                |
+| ------------- | ----------------------------------------------------------------------------|------------------------------------|                                            
+|  Argentina    | Taller sobre periodismo de datos y acceso a la información                  | Fundación /ONG / Asociación civil  |
+|  Argentina    | Gobierno Abierto y transparencia - Acceso y consumo de datos públicos       | Fundación /ONG / Asociación civil  |
+
+|  Argentina    | Diplomado en Gobierno Abierno Abierto y Gobierno Electrónico                | Universidad                        |
+|  Argentina    | Tecnicatura Universitaria en Gobierno Abierto                               | Universidad                        |
 
 
 ### Iniciativas Educativas en Gobierno Abierto en Chile
