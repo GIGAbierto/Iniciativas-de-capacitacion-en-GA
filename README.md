@@ -71,6 +71,13 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 
+> [Políticas Públicas para el desarrollo del Gobierno Abierto en la Argentina] (https://capacitacion.inap.gob.ar/?cursos=politicas-publicas-para-el-desarrollo-del-gobierno-abierto-en-argentina-in-me-16240)
+
+**Institución:** Instituto Nacional de la Administración Pública.
+
+**Objetivo:** curso destinado a _"participante conozca las principales políticas públicas que tienden a garantizar el acceso universal y uso de las TICs, así como la propuesta argentina de gobierno abierto, de modo que pueda participar activamente en el desarrollo de las mismas."_
+
+
 
 > [Introducción a la Innovación Pública y al Gobierno Abierto] (https://capacitacion.inap.gob.ar/?cursos=introduccion-a-la-innovacion-publica-y-al-gobierno-abierto-in-me-20010)
 
