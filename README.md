@@ -42,6 +42,17 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 
+> [Diplomado en Gobierno Abierto y Gobierno Electrónico] (http://www.sceu.frba.utn.edu.ar/e-learning/cursos-a-distancia/Gobierno/Diplomado-en-Gobierno-Abierto-y-Gobierno-Electronico/temario.html)
+
+
+**Institución:** Universidad Tecnológica Nacional - Facultad Regional Buenos Aires
+
+
+
+**Objetivo:** _"Que los participantes logren aprender, actualizar y/o perfeccionar sus conocimientos respecto al gobierno abierto y gobierno electrónico y así adquirir mayores competencias laborales al ajustar conocimientos teóricos, con la experiencia práctica en el ámbito estatal-privado-universitario, ayudado por una metodología capaz de consolidar conocimientos, propagar nuevas competencias y propiciar cambios laborales y organizacionales"_
+
+
+
 > [Tecnicatura Universitaria de Gobierno Abierto] (http://www.upap.edu.ar/carrera/3)
 
 **Institución:**  Universidad Provincial de Administración Pública.
