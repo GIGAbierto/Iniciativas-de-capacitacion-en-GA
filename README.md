@@ -126,6 +126,11 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 |  Argentina    | Gobierno Abierto y transparencia - Acceso y consumo de datos públicos       | Fundación /ONG / Asociación civil  |
 |  Argentina    | Diplomado en Gobierno Abierno Abierto y Gobierno Electrónico                | Universidad                        |
 |  Argentina    | Tecnicatura Universitaria en Gobierno Abierto                               | Universidad                        |
+|  Argentina    | Producción de datos abiertos gubernamentales utilizando Excel 2010          | Organismo de gobierno              |
+|  Argentina    | Políticas Públicas para el desarrollo del GA en la Argentina                | Organismo de gobierno              |
+|  Argentina    | Introducción a la Innovación Pública y al Gobierno Abierto                  | Organismo de gobierno              |
+|  Argentina    | Cátedra libre Gobierno Abierto                                              | Universidad                        |
+|  Argentina    | Red académica de Gobierno Abierto                                           | Universidad                        |
 
 
 ### Iniciativas Educativas en Gobierno Abierto en Chile
