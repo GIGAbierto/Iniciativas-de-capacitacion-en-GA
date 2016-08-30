@@ -42,6 +42,14 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 
+> [Tecnicatura Universitaria de Gobierno Abierto] (http://www.upap.edu.ar/carrera/3)
+
+**Institución:**  Universidad Provincial de Administración Pública.
+
+
+**Objetivo:**_"Generar herramientas y promover acciones de Gobierno Abierto hacia el interior de la Administración Pública Provincial, con el propósito de incrementar la transparencia en el ejercicio de la función pública, el acceso a la información pública, la ética pública, el buen gobierno y la participación y colaboración de la ciudadanía en los asuntos públicos"_
+
+
 
 > [Producción de datos abiertos gubernamentales utilizando planilla de cálculo Excel 2010] (https://capacitacion.inap.gob.ar/?cursos=produccion-de-datos-abiertos-gubernamentales-utilizando-planilla-de-calculo-excel-2010)
 
