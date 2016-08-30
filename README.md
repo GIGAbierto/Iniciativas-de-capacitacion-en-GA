@@ -33,6 +33,16 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 
+> [Producción de datos abiertos gubernamentales utilizando planilla de cálculo Excel 2010] (https://capacitacion.inap.gob.ar/?cursos=produccion-de-datos-abiertos-gubernamentales-utilizando-planilla-de-calculo-excel-2010)
+
+**Institución:** Instituto Nacional de la Administración Pública.
+
+
+**Objetivo:** buscar promover la implementación del Decreto 434/2016 fomentando, entre otros puntos, que los organismo _"puedan publicar datos trabajados en planillas de cálculo en formatos abiertos_"
+
+
+
+
 > [Introducción a la Innovación Pública y al Gobierno Abierto] (https://capacitacion.inap.gob.ar/?cursos=introduccion-a-la-innovacion-publica-y-al-gobierno-abierto-in-me-20010)
 
 
