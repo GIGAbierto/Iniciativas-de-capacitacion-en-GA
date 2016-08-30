@@ -24,6 +24,14 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 ### Iniciativas educativas en Gobierno Abierto en Argentina
 
 
+[Gobierno Abierto y Transparencia - Acceso y consumo de datos públicos] (http://www.top.org.ar/curso_gat.aspx?S=WEB)
+
+**Institución:** Centro de Desarrollo y Asistencia Técnica en Tecnología para la Organización Pública.
+
+**Objetivo:** introducir a los alumnos en el concepto de Gobierno Abierto para compartir conocimientos y habilidades para promover e impulsar políticas de transparencia en los países de los miembros participantes.
+
+
+
 > [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
 
 **Institución:** Fundación Tomás Eloy Martínez.
