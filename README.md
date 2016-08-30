@@ -53,7 +53,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 
-> [Tecnicatura Universitaria de Gobierno Abierto] (http://www.upap.edu.ar/carrera/3)
+> [Tecnicatura Universitaria en Gobierno Abierto] (http://www.upap.edu.ar/carrera/3)
 
 **Institución:**  Universidad Provincial de Administración Pública.
 
