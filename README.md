@@ -117,6 +117,13 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 **Objetivo**: Según su propia página web, buscan _favorecer la generación de espacios de cooperación a nivel local, regional y global en el sector académico, a fin de difundir, investigar, enseñar y publicar sobre el enfoque de GA; así como co-crear, con otros actores de la sociedad civil y gobiernos, propuestas de apertura institucional y ciudadana, de transparencia, de acceso a la información, rendición de cuentas, participación y colaboración._
 
 
+#### Resumen Argentina
+
+
+|   **País**    |               **Iniciativa **                                               | **Institución** |
+| ------------- | ----------------------------------------------------------------------------|-----------------|                                            
+|  Argentina    | Taller sobre periodismo de datos y acceso a la información
+|  Argentina    | 
 
 
 ### Iniciativas Educativas en Gobierno Abierto en Chile
