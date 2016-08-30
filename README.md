@@ -32,6 +32,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 
+
 > [Introducción a la Innovación Pública y al Gobierno Abierto] (https://capacitacion.inap.gob.ar/?cursos=introduccion-a-la-innovacion-publica-y-al-gobierno-abierto-in-me-20010)
 
 
@@ -39,6 +40,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 **Objetivo:**  se propone _" impulsar la apertura de datos, el gobierno abierto y la innovación pública en la Argentina. En enero de 2016, a través del decreto 117 se creó el “Plan de Apertura de Datos”, que promueve la adopción de medidas para la gestión de los datos que generan y preservan los Ministerios, Secretarías y organismos descentralizados del Poder Ejecutivo Nacional"_
+
 
 
 
@@ -50,11 +52,14 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 
+
 >  [Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata] (http://www.unlp.edu.ar/gobiernoabierto)
 
 **Institución:** Universidad Nacional de La Plata
 
 **Objetivo**: la iniciativa busca crear _"un espacio abierto e inclusivo donde se puedan promover publicaciones, charlas, reuniones, desayunos de trabajo, con universidades nacionales y privadas, fundaciones y ONGs interesadas en la participación y la reconfiguración de la relación entre los ciudadanos y los gobiernos"_
+
+
 
 
 > [Red Académica de Gobierno Abierto] (http://redacademicagobabierto.org/)
@@ -64,6 +69,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 **Objetivo**: Según su propia página web, buscan _favorecer la generación de espacios de cooperación a nivel local, regional y global en el sector académico, a fin de difundir, investigar, enseñar y publicar sobre el enfoque de GA; así como co-crear, con otros actores de la sociedad civil y gobiernos, propuestas de apertura institucional y ciudadana, de transparencia, de acceso a la información, rendición de cuentas, participación y colaboración._
+
 
 
 
