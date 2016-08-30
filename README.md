@@ -24,11 +24,21 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 ### Iniciativas educativas en Gobierno Abierto en Argentina
 
 
-[Gobierno Abierto y Transparencia - Acceso y consumo de datos públicos] (http://www.top.org.ar/curso_gat.aspx?S=WEB)
+> [Gobierno Abierto y Transparencia - Acceso y consumo de datos públicos] (http://www.top.org.ar/curso_gat.aspx?S=WEB)
 
 **Institución:** Centro de Desarrollo y Asistencia Técnica en Tecnología para la Organización Pública.
 
 **Objetivo:** introducir a los alumnos en el concepto de Gobierno Abierto para compartir conocimientos y habilidades para promover e impulsar políticas de transparencia en los países de los miembros participantes.
+
+
+
+> [Introducción a la Innovación Pública y al Gobierno Abierto] (https://capacitacion.inap.gob.ar/?cursos=introduccion-a-la-innovacion-publica-y-al-gobierno-abierto-in-me-20010)
+
+
+**Institución:** Instituto Nacional de la Administración Pública.
+
+
+**Objetivo:**  se propone _" impulsar la apertura de datos, el gobierno abierto y la innovación pública en la Argentina. En enero de 2016, a través del decreto 117 se creó el “Plan de Apertura de Datos”, que promueve la adopción de medidas para la gestión de los datos que generan y preservan los Ministerios, Secretarías y organismos descentralizados del Poder Ejecutivo Nacional"_
 
 
 
