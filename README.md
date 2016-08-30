@@ -120,7 +120,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 #### Resumen Argentina
 
 
-|   **País**    |               **Iniciativa **                                               |     **Institución**                |
+|   **País**    |               **Iniciativa**                                                |     **Institución**                |
 | ------------- | ----------------------------------------------------------------------------|------------------------------------|                                            
 |  Argentina    | Taller sobre periodismo de datos y acceso a la información                  | Fundación /ONG / Asociación civil  |
 |  Argentina    | Gobierno Abierto y transparencia - Acceso y consumo de datos públicos       | Fundación /ONG / Asociación civil  |
