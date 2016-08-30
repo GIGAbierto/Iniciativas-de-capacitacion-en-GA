@@ -23,6 +23,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 ### Iniciativas educativas en Gobierno Abierto en Argentina
 
+
 > [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
 
 **Institución:** Fundación Tomás Eloy Martínez.
@@ -50,60 +51,13 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 ### Iniciativas Educativas en Gobierno Abierto en Chile
 
-**Nombre de la iniciativa:** Colab - Innovación Social UC
+
+**Nombre de la iniciativa:** [Colab - Innovación Social UC] (http://innovacionsocial.uc.cl/)
 
 **Institución:** Universidad Católica de Chile - Escuela de Administración UC
 
-**URL de la iniciativa:** http://innovacionsocial.uc.cl/
 
-Colab es un laboratorio de innovación que nació en 2011. El proyecto funciona dentro de la Escuela de Administración como _"un espacio innovador donde se pueda observar, reflexionar y tomar acciones concretas con el fin de hacer frente a nuestras necesidades sociales, ambientales y económicas"_.
-
-**Objetivo**: co-construcción de un ecosistema de innovación y emprendimiento social que fomente el progreso sustentable de Chile  a través de la formación de agentes de cambio en personas, organizaciones y nuevos modelos de creación de valor a través de 3 ejes: vinculación, formación e investigación.
-
-**Equipo**
-
-_Permanente_
-
-* 4 ingenieros comerciales.
-* 1 diseñador gráfico.
-* 1 bioquímico.
-* 1 cientista político.
-* 1 contador.
-
-_Colaboradores_
-
-* 7 estudiantes de ingeniería.
-* 1 estudiante de trabajo social.
-* 1 cientista político.
-* 1 ingeniero.
-
-**Productos formación**
-
-
-* La escuela de innovación social
-* Laboratorios de emprendimiento y innovacion social
-* Curso innovación social Magister UC
-* Curso de Formación Directiva
-
-
-**Productos Investigación:**
-* Papers y publicaciones
-
-
-**Productos de vinculación:**
-
-
-* Mesa Técnica Ministerial de Empresas Sociales
-* Iniciativa 101Soluciones al Emprendimiento Social (www.101soluciones.org)
-* Asesoría en la creación de la ASOGES (Asociación Gremial de Empresas Sociales de Chile)
-* Taller de alto nivel en América Latina, el cual reunió a más de 70 actores públicos y privados. Esta instancia estuvo patrocinado por dos actores claves del proceso: Fondo Multilateral de Inversiones (FOMIN), junto con la experiencia de Finanzas Sociales.
-* Bien Público: Fortalecimiento de la Cadena de Valor de la Pesca Artesanal en Chile
-* Alto impacto: http://innovacionsocial.uc.cl/altoimpacto/
-
-
-
-***
-
+**Objetivo**: Colab es un laboratorio de innovación que nació en 2011. El proyecto funciona dentro de la Escuela de Administración como _"un espacio innovador donde se pueda observar, reflexionar y tomar acciones concretas con el fin de hacer frente a nuestras necesidades sociales, ambientales y económicas" para la co-construcción de un ecosistema de innovación y emprendimiento social que fomente el progreso sustentable de Chile .
 **Nombre de la iniciativa:** Laboratorio de Gobierno
 
 **Institución:**Gobierno de Chile.
