@@ -9,6 +9,7 @@ GIGA nació en mayo de 2016 y tuvo como primera actividad la creación de un map
 
 ## Índice
 
+* [Mapeo de iniciativas educativas en Gobierno Abierto: a qué consideramos una iniciativa educativa en Gobierto Abierto]    (https://github.com/GIGAbierto/Iniciativas-de-capacitacion-en-GA/### Mapeo-de-iniciativas-educativas-en-Gobierno-Abierto-:-a-qué- consideramos-una-iniciativa-educativa-en-Gobierto-Abierto)
 * [Iniciativas educativas en Gobierno Abierto en Argentina] (https://github.com/GIGAbierto/Iniciativas-de-capacitacion-en-GA/### Iniciativas-educativas-en-Gobierno-Abierto-en-Argentina)
 * [Iniciativas educativas en Gobierno Abierto en Chile] (https://github.com/GIGAbierto/Iniciativas-de-capacitacion-en-GA/### Iniciativas-educativas-en-Gobierno-Abierto-en-Chile)
 * [Iniciativas educativas en Gobierno Abierto en Uruguay] (https://github.com/GIGAbierto/Iniciativas-de-capacitacion-en-GA/### Iniciativas-educativas-en-Gobierno-Abierto-en-Uruguay)
