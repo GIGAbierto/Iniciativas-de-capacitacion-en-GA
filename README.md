@@ -7,6 +7,10 @@ GIGA nació en mayo de 2016 y tuvo como primera actividad la creación de un map
 
 > English speaker? Read about the Open Government Innovation Gym (OGIG) [here] (https://docs.google.com/presentation/d/1aGspJJNno_lN79nEgVolr8qMMVF5BbbBlp0Bq-wgZSE/edit?usp=sharing)
 
+## Índice
+
+* [Iniciativas educativas en Gobierno Abierto en Argentina] (https://github.com/GIGAbierto/Iniciativas-de-capacitacion-en-GA/### Iniciativas-educativas-en-Gobierno-Abierto-en-Argentina)
+
 ### Mapeo de iniciativas educativas en Gobierno Abierto: a qué consideramos una iniciativa educativa en Gobierto Abierto
 
 
