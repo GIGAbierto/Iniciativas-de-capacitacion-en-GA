@@ -24,7 +24,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 Iniciativas relevadas en capacitación de Gobierno Abierto 
 Argentina
 
-* **Nombre de la iniciativa:** [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
+### [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
 
 **Institución:** Fundación Tomás Eloy Martínez.
 
@@ -32,7 +32,7 @@ Argentina
 
 
 
-* **Nombre de la iniciativa:** [Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata] (http://www.unlp.edu.ar/gobiernoabierto)
+### [Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata] (http://www.unlp.edu.ar/gobiernoabierto)
 
 **Institución:** Universidad Nacional de La Plata
 
