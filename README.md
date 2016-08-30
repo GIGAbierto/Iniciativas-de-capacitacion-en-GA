@@ -24,7 +24,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 Iniciativas relevadas en capacitación de Gobierno Abierto 
 Argentina
 
-### [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
+> [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
 
 **Institución:** Fundación Tomás Eloy Martínez.
 
@@ -32,24 +32,20 @@ Argentina
 
 
 
-### [Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata] (http://www.unlp.edu.ar/gobiernoabierto)
+>  [Cátedra Libre Gobierno Abierto Universidad Nacional de La Plata] (http://www.unlp.edu.ar/gobiernoabierto)
 
 **Institución:** Universidad Nacional de La Plata
 
 **Objetivo**: la iniciativa busca crear _"un espacio abierto e inclusivo donde se puedan promover publicaciones, charlas, reuniones, desayunos de trabajo, con universidades nacionales y privadas, fundaciones y ONGs interesadas en la participación y la reconfiguración de la relación entre los ciudadanos y los gobiernos"_
 
 
-
-* **Nombre de la iniciativa:** Red Académica de Gobierno Abierto.
+> [Red Académica de Gobierno Abierto] (http://redacademicagobabierto.org/)
 
 
 **Institución:** No poseen un espacio formal.
 
 
-**URL de la  iniciativa:** http://redacademicagobabierto.org/
-
-
-Según su propia página web, buscan _favorecer la generación de espacios de cooperación a nivel local, regional y global en el sector académico, a fin de difundir, investigar, enseñar y publicar sobre el enfoque de GA; así como co-crear, con otros actores de la sociedad civil y gobiernos, propuestas de apertura institucional y ciudadana, de transparencia, de acceso a la información, rendición de cuentas, participación y colaboración._
+**Objetivo**: Según su propia página web, buscan _favorecer la generación de espacios de cooperación a nivel local, regional y global en el sector académico, a fin de difundir, investigar, enseñar y publicar sobre el enfoque de GA; así como co-crear, con otros actores de la sociedad civil y gobiernos, propuestas de apertura institucional y ciudadana, de transparencia, de acceso a la información, rendición de cuentas, participación y colaboración._
 
 **Equipo**
 
