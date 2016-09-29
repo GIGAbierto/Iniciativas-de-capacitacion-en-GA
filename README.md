@@ -7,6 +7,7 @@ GIGA nació en mayo de 2016 y tuvo como primera actividad la creación de un map
 
 > English speaker? Read about the Open Government Innovation Gym (OGIG) [here] (https://docs.google.com/presentation/d/1aGspJJNno_lN79nEgVolr8qMMVF5BbbBlp0Bq-wgZSE/edit?usp=sharing)
 
+
 ## Índice
 
 * [Mapeo de iniciativas educativas en Gobierno Abierto: a qué consideramos una iniciativa educativa en Gobierto Abierto]    (https://github.com/GIGAbierto/Iniciativas-de-capacitacion-en-GA/### Mapeo-de-iniciativas-educativas-en-Gobierno-Abierto-:-a-qué- consideramos-una-iniciativa-educativa-en-Gobierto-Abierto)
@@ -90,7 +91,7 @@ El equipo de GIGA se propuso relevar todas las iniciativas educativas que tienen
 
 
 
-> [Taller de periodismo de datos y acceso a la información] (http://fundaciontem.org/taller-sobre-periodismo-de-datos-y-acceso-a-la-informacion/)
+> [Curso online de Fact-checking y periodismo de datos] (http://chequeado.com/proyectos/curso-online-abierto-periodismo-de-datos-2-0/)
 
 **Institución:** Fundación Tomás Eloy Martínez.
 
